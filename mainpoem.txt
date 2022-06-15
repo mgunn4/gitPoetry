@@ -1,1 +1,5 @@
-Physics is really great! 
+First time working with git
+I figured out commit
+but the failure to merge
+causes my rage to surge
+I'm gonna throw a fucking fit
